@@ -12,7 +12,7 @@
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pranav-ti/password_vault.git
+   git clone https://github.com/pranav-ti/SecurePass_vault.git
     ```
 
 2. Install dependencies:
