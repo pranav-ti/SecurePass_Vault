@@ -44,6 +44,6 @@
 
     Never share your master password
     
-    Database is stored locally at data/password_vault.db
+    Database is stored locally at "password_vault.db"
     
     All passwords and security answers are hashed using bcrypt
