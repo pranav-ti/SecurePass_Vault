@@ -5,7 +5,7 @@ import random
 import string
 from getpass import getpass
 
-DB_PATH = os.getenv("DB_PATH", "data/password_vault.db")
+DB_PATH = os.getenv("DB_PATH", "password_vault.db")
 
 SECURITY_QUESTIONS = [
     "What is your mother's maiden name?",
