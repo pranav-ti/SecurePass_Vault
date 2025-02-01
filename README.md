@@ -21,7 +21,8 @@
     pip install -r requirements.txt
     ```
 
-**Usage**
+3. **Usage**
+
     ```bash
     python vault.py
     ```
