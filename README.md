@@ -28,14 +28,22 @@
     ```
 
 **Menu Options:**
+
     1. Add/Update credentials for a website
+    
     2. Retrieve stored credentials
+    
     3. Delete credentials
+    
     4. Check password strength
+    
     5. Exit
 
 
 **Security Notes**
+
     Never share your master password
+    
     Database is stored locally at data/password_vault.db
+    
     All passwords and security answers are hashed using bcrypt
